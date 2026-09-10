@@ -24,5 +24,5 @@
 ---
 
 <div align="center">
-  <p>I have built many projects offline and have recently started pushing them here to GitHub!</p>
+  <p>I have built many projects (not-published) and have recently started pushing them here to GitHub!</p>
 </div>
