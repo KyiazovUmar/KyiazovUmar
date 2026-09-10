@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋, I'm Umar!
+# Hi there 👋, I'm $\displaystyle\Huge\color{#0284c7}{\text{Umar}}$
 
-### Aspiring AI Engineer & Tech Founder | 14-year-old 9th Grader
+### Aspiring $\color{#0284c7}{\text{AI Engineer}}$ & $\color{#0284c7}{\text{Tech Founder}}$ | 14-year-old 9th Grader
 
 <br>
 
