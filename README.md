@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 I'm Umar, an aspiring AI engineer and tech founder. 
 I am a 14-year-old 9th grader.
