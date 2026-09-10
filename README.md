@@ -15,4 +15,4 @@
 
 ---
 
-I have built many projects offline and have recently started pushing them here to GitHub! Check out my pinned repositories below to see what I'm working on.
+I have built many projects offline and have recently started pushing them here to GitHub! 
