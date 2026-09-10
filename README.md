@@ -12,9 +12,9 @@
   <a href="https://github.com"><img src="https://img.shields.io/badge/Vibe_Coding-000000?style=for-the-badge&logo=codeforces&logoColor=ffffff" alt="Vibe Coding"></a>
 </p>
 <p>
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"></a>
-  <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQL"></a>
-  <a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=ffffff" alt="Frontend"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-0284c7?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"></a>
+  <a href="https://sqlite.org"><img src="https://img.shields.io/badge/SQL-0284c7?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQL"></a>
+  <a href="https://developer.mozilla.org"><img src="https://img.shields.io/badge/Frontend-0284c7?style=for-the-badge&logo=html5&logoColor=ffffff" alt="Frontend"></a>
 </p>
 
 </div>
