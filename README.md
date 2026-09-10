@@ -1,92 +1,18 @@
-Hi there 👋
-
-I'm Umar, an aspiring AI engineer and tech founder. 
-I am a 14-year-old 9th grader.
-
-Currently my main tech skills are:
-* Python
-* SQL
-* Frontend development
-* AI & Agentic Workflows
-
-I have built many projects offline and have recently started pushing them here to GitHub!
-
 <div align="center">
-  <style>
-    @keyframes glitch {
-      0% {
-        transform: translate(0);
-        text-shadow: -2px 0 #ff00ff, 2px 2px #00ffff;
-      }
-      20% {
-        transform: translate(-3px, 3px);
-        text-shadow: 2px -2px #ff00ff, -2px 2px #00ffff;
-      }
-      40% {
-        transform: translate(-3px, -3px);
-        text-shadow: 2px 2px #ff00ff, -2px -2px #00ffff;
-      }
-      60% {
-        transform: translate(3px, 3px);
-        text-shadow: -2px -2px #ff00ff, 2px 2px #00ffff;
-      }
-      80% {
-        transform: translate(3px, -3px);
-        text-shadow: 2px 2px #ff00ff, -2px -2px #00ffff;
-      }
-      100% {
-        transform: translate(0);
-        text-shadow: -2px 0 #ff00ff, 2px 2px #00ffff;
-      }
-    }
 
-    .glitch-container {
-      font-family: monospace;
-      font-size: 6.5px;
-      font-weight: bold;
-      color: #FFD700;
-      animation: glitch 1.2s infinite;
-      white-space: pre;
-      line-height: 0.8;
-      letter-spacing: 2px;
-    }
-  </style>
+# Hi there 👋, I'm Umar!
 
-  <div class="glitch-container">
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&##BBBBBBBBBB#&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&####&###BB#&&&&&#B######&&@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#####&&@&&@@@&&#&&&&@&#@@&&&&&#&@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#B#&&&@&&&@@@@@@&#&&&@&&@@@&&&&&#&@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#B#&&&&#&&&&&@@@&##&@@&@@&&&&&&&&&&#&&@@&&@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BG#&B&&BBB##&&&&&&##&@@@@@&@&&&&&&&&#&&#&#&@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GB####BGPPGB#&##&&&&&@@@@@@@&&&&&&&&&@&&&&@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&GGBGGBP5YYPGB##BB##&@@@@@@@@@@&@@&@@@&#&@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BGP5P5J7!?JJ5G##BGB#&@&@&#&&&@@@@@@@@&#&@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&5YY5YJ7!~!?JY5P5555PPGGGGBBGB&@@@@&&&&@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y~!7??7~^^!?JJ?777?JYY55555Y5G#&@@&&&&@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B5?YBP7~^^7JJ??YJ?B##BGP5YYYYYG&&&&&&@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P^~!7!~^^!?YJ77?77?JJYYYYYYJJYGBGGGGG&@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&~:::::^^~7?JJ7!^~~^~!!7?JJJYYYPPPP5PP&@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B.::::::~7?JYY?!^^^^~~!7?JYYY5555BB5YP@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#^::^^~^!?JJY557~^^^~!7?JYY55555PPPP5#@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@J:::^!77?J5JYY7~^^~~7?JY5555555YY5G&@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&~:::^^~~!7777!!~~!7?JYYYY555PPG&@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P:^~7??YYJJ?JJ??77?JJYYY555PGP#@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@J^!77?JJY5P5YYJ??JJJYY55PPPPP&@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@J^!!7??YY5YYYJJJJYY5PPPPPPPP&@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@J^~!!!7?JYYJJYY5PPGGGPPPPPPB@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@5^^^^~7?JYY5PGBBBGPPPPPPGGP#@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#5JJJJJY555PPP5YYYY5PPGGPGG#&&@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Y!7??77777???JY5GGGGGGGGPB#@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B~!!!!!~~!!77?YPBBBGGGGGBBGGB&@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@7~!!~~~~~!7?5BBBGGGGGGBGPP55PG#&@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P^~~~~~~7JPGGGGGGBGP5PPPPPGGGPPGGB&@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#&&~~~^~?YPGGPPPGGGP555PGGGGGGGGGPGPGB@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BYG@@J~!?YPPP55PPPPP5YY5PGGBBBBGGGGGBBBBB&@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&5?JYPPYJJY55YY5PP555YJY5PGPPPPPPP55PPPGGBB#&@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&YJJJYYYYJYY5YYY55555YJY5PP55PP5PPPPPPPPGGGGGB#@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GJJJJJYYYY55YY5YY55YJJJYP555555555PPPPGGGGGGGGG#@@
-  </div>
+### Aspiring AI Engineer & Tech Founder | 14-year-old 9th Grader
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Frontend](https://img.shields.io/badge/Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org)
+[![AI Agents](https://img.shields.io/badge/AI_Workflows-00599C?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+
 </div>
+
+---
+
+I have built many projects offline and have recently started pushing them here to GitHub! Check out my pinned repositories below to see what I'm working on.
